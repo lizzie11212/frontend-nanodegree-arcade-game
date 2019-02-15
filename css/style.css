@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.restart {
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
